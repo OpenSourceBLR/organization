@@ -4,7 +4,7 @@ In any conversation with any 'potential' venue sponsor, we must insist on the fo
 
 What we NEED
 
-*  Space for 60 people
+*  Space for 80 people
 *  LCD projector (VGA/HDMI)
 *  Power outlets
 *  Access to Washroom
@@ -17,6 +17,7 @@ what we DON'T NEED
 *  Bureacracy
 *  WiFi
 *  Food
+*  Video recording
 
 The GOAL is TECHNICAL EXCELLENCE and not picnic.
 
